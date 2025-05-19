@@ -30,3 +30,4 @@ An opinionated boilerplate for Expo 53!
 -   Choose whether to go with legendlist or flashlist
 -   install react hook form (possibly useSuperForm wrapper?)
 -   install open api fetcher (possibly superFetcher?)
+-   should we have a lib folder?
